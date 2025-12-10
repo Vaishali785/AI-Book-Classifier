@@ -56,18 +56,6 @@ Create your `.env` file:
 > The `.env.example` file shows the correct format.
 > **Never commit your real API key.**
 
-Install dependencies:
-
-```
-npm install
-```
-
-Run the project:
-
-```
-npm run dev
-```
-
 ---
 
 ## 🔒 Security Note
@@ -83,6 +71,3 @@ Do **not** expose real API keys in public repos or production builds.
 - UI is intentionally minimal.
 - Model behavior may vary depending on the image.
 - The project is expected to evolve as I learn more about LLMs, prompting, and model parameters.
-
-Here is the **updated README** with a clean, simple **Screenshots** section added.
-It still keeps the same beginner-friendly, personal project tone.
